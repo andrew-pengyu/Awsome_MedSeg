@@ -1,4 +1,4 @@
-# MedSeg_CBB
+# Awsome_MedSeg
 A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond
 
 
