@@ -1,6 +1,6 @@
 # Awsome_MedSeg
 A Comprehensive Survey of Medical Image Segmentation for Soft Computing: Challenges, Benchmarks, and Beyond
-
+[![preprint](https://img.shields.io/static/v1?label=arXiv&message=2509.25826&color=B31B1B&logo=arXiv)](https://arxiv.org/abs/2606.16153)
 
 ## Contents
 
